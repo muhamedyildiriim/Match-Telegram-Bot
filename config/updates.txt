@@ -1,0 +1,21 @@
+YAPILMASI GEREKENLER
+
+1- BaseScraperi baştan yaz, selenium ile resmini çektir yazıya dök, veritabanına kaydet, kaydederken aynı verilerin girilmemesini sadece güncellenmesini sağla, gün sonunda veritabanını sil her 30 dakikada bir alınan ss'leri sil
+
+2- Try exceptionlar ile loglama işlemi yapılacak ve hatalar yönetilecek, eğer program hata verirse yeniden çalışması sağlanacak
+
+
+
+
+------------------------
+
+
+
+
+Kod bittikten sonra
+
+1- Github'a at.
+
+2- Github'da bazı bilgileri gizle.
+
+3- Güzel bir portfolyo tanıtımı hazırla. (Telegram grubundan ss'ler, portfolyo da yeni proje sekmesi ve bilgiler oraya ss'ler)
