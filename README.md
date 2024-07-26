@@ -68,5 +68,5 @@ The **Football Match Scheduler Bot** is a Telegram bot designed to provide daily
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or support, please contact [your email].
+For any questions or support, please contact [muhamedyildiriim@gmail.com].
 
